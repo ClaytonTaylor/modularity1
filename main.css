@@ -145,3 +145,65 @@ column-count: 3;
     text-align: left;
     color: White;
 }
+
+
+
+
+
+
+
+
+.media-block {
+    float: left;
+    margin-right: 10px;
+}
+
+.media-block-text {
+    font-size: 14px;
+}
+
+.cupcake-ipsum {
+    float: left;
+    margin-right: 0px;
+}
+
+.cupcake-ipsum-text {
+    font-size: 12px;
+    padding-left: 60px;
+}
+
+.ccip {
+    padding-left: 60px;
+}
+
+
+
+
+.nmo-cupcake-ipsum {
+    float: left;
+    margin-right: 0px;
+}
+
+.ilc {
+    float: left;
+    margin-right: 0px;
+    padding-left: 60px;
+}
+
+.ilc2 {
+    float: left;
+    margin-right: 0px;
+    padding-left: 60px;
+}
+
+.ccip2 {
+    padding-left: 60px;
+}
+
+.ccip3 {
+    padding-left: 60px;
+}
+
+.ccip4 {
+    padding-left: 60px;
+}
